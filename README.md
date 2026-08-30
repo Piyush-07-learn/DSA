@@ -23,8 +23,8 @@ Recruiters and peers reviewing this code will find that I prioritize:
 
 | Concept / Pattern | Problems Solved | Status |
 | :--- | :---: | :--- |
-| **Arrays & Hashing** | 1 | 🟢 In Progress |
-| **Two Pointers** | 0 | ⚪ Not Started |
+| **Arrays & Hashing** | 9 | 🟢 In Progress |
+| **Two Pointers** | 10 | 🟢 In Progress |
 | **Sliding Window** | 0 | ⚪ Not Started |
 | **Stack & Queue** | 0 | ⚪ Not Started |
 | **Binary Search** | 0 | ⚪ Not Started |
